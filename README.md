@@ -8,8 +8,11 @@ This study aims to provide a feasible terrestrial fog detection algorithm in cen
 
 ## Data and methods
 
+
 ## Results
 
+
 ## Discussion
+
 
 ## Reference
